@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <!-- Meta tag essencial para que o layout se adapte (Mobile-First) em diferentes tamanhos de tela -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Calculadora de IMC Premium</title>
+
+    <!-- Importação do Bootstrap 5 para acelerar a construção de grids e componentes básicos -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Google Fonts: Fonte 'Inter' para garantir uma tipografia moderna e elegante -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Nosso arquivo de estilos personalizados isolado -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container main-container py-5">
+        <!-- Título principal da página -->
+        <header class="text-center mb-5">
+            <h1 class="display-4 fw-bold titulo-gradiente">Calculadora de IMC</h1>
+            <p class="text-muted">Descubra seu Índice de Massa Corporal e veja suas metas de peso ideais de forma inteligente.</p>
+        </header>
+
+        <div class="row g-5">
+            <!-- Lado Esquerdo: Formulário (Grid responsivo: ocupa 100% no mobile e 50% em telas médias/grandes) -->
+            <div class="col-12 col-md-5">
+                <div class="card cartao-vidro p-4">
+                    <h4 class="mb-4 fw-bold">Seus Dados</h4>
+                    
+                    <form id="formularioImc">
+                        <div class="mb-4 input-group-custom">
+                            <label for="altura" class="form-label text-secondary fw-semibold">Altura (m)</label>
+                            <input type="text" inputmode="decimal" class="form-control form-control-lg entrada-personalizada" id="altura" placeholder="Ex: 1,75" required>
+                        </div>
+
+                        <div class="mb-4 input-group-custom">
+                            <label for="peso" class="form-label text-secondary fw-semibold">Peso (kg)</label>
+                            <input type="text" inputmode="decimal" class="form-control form-control-lg entrada-personalizada" id="peso" placeholder="Ex: 70,5" required>
+                        </div>
+
+                        <!-- Botão com efeito interativo. O tipo "submit" aciona o envio do formulário -->
+                        <button type="submit" class="btn btn-primary btn-lg w-100 btn-calcular text-white">
+                            Calcular meu IMC
+                        </button>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Lado Direito: Resultados (Escondido inicialmente até o cálculo ser feito) -->
+            <div class="col-12 col-md-7">
+                <div id="recipienteResultado" class="card cartao-vidro p-4 d-none aparecer">
+                    <h4 class="text-center fw-bold mb-3">Seu Resultado: <span id="valorImc" class="text-primary titulo-gradiente"></span></h4>
+                    <h5 class="text-center mb-4 text-muted fw-semibold" id="classificacaoImc"></h5>
+                    
+                    <!-- Contêiner onde a biblioteca ECharts irá desenhar o gráfico de Velocímetro (Gauge) -->
+                    <div id="graficoVelocimetro" style="width: 100%; height: 300px;"></div>
+
+                    <h5 class="mt-4 mb-3 fw-bold">Tabela de Classificações</h5>
+                    <p class="small text-muted mb-3">Pesos calculados de forma exata com base na sua altura.</p>
+                    
+                    <!-- Tabela estilizada do Bootstrap. A classe 'table-responsive' ajuda em telas pequenas -->
+                    <div class="table-responsive">
+                        <table class="table table-hover align-middle tabela-personalizada">
+                            <thead>
+                                <tr>
+                                    <th>Classificação</th>
+                                    <th>Faixa de Peso (kg)</th>
+                                </tr>
+                            </thead>
+                            <tbody id="corpoTabela">
+                                <!-- As linhas da tabela serão injetadas dinamicamente via JavaScript -->
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Importação do ECharts (Biblioteca profissional de gráficos do Apache) -->
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.5.0/dist/echarts.min.js"></script>
+    
+    <!-- Nosso script de comportamentos isolado -->
+    <script src="js/script.js"></script>
+</body>
+</html>

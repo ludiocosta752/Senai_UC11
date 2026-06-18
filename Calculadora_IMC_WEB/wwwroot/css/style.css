@@ -1,0 +1,133 @@
+/*
+    Variáveis globais de cores (CSS Tokens).
+    Isso facilita a manutenção. Se quisermos mudar a cor principal,
+    basta trocar em um só lugar.
+*/
+:root {
+    --primary-color: #4f46e5;      /* Um azul arroxeado moderno */
+    --primary-hover: #4338ca;
+    --bg-color: #f3f4f6;           /* Fundo cinza bem claro para suavidade */
+    --card-bg: rgba(255, 255, 255, 0.95);
+    --text-color: #1f2937;
+    --transition-speed: 0.3s;
+}
+
+/* Reset básico e tipografia */
+body {
+    background-color: var(--bg-color);
+    font-family: 'Inter', sans-serif;
+    color: var(--text-color);
+    /* Um leve background radial para dar profundidade e estética "premium" */
+    background: radial-gradient(circle at top left, #eef2ff, #f3f4f6);
+    min-height: 100vh;
+}
+
+/* Estilo do título usando gradiente - visual muito moderno */
+.titulo-gradiente {
+    background: linear-gradient(135deg, var(--primary-color), #ec4899);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* 
+    Glassmorphism sutil para os cartões. 
+    Sombras amplas e bordas arredondadas dão o efeito flutuante (card flutuando).
+*/
+.cartao-vidro {
+    background: var(--card-bg);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.05);
+    backdrop-filter: blur(10px);
+}
+
+/* Campos de formulário customizados para não ficarem com cara de Bootstrap padrão */
+.entrada-personalizada {
+    border-radius: 12px;
+    border: 2px solid #e5e7eb;
+    background-color: #f9fafb;
+    transition: border-color var(--transition-speed), box-shadow var(--transition-speed);
+}
+
+.entrada-personalizada:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(79, 70, 229, 0.15);
+    background-color: #fff;
+    outline: none;
+}
+
+/* Botão principal com hover sutil que "levanta" o elemento */
+.btn-calcular {
+    background-color: var(--primary-color);
+    border: none;
+    border-radius: 12px;
+    font-weight: 600;
+    transition: all var(--transition-speed);
+}
+
+.btn-calcular:hover {
+    background-color: var(--primary-hover);
+    transform: translateY(-2px); /* Animação de levantar */
+    box-shadow: 0 8px 20px rgba(79, 70, 229, 0.3);
+}
+
+/* Animação suave para quando o resultado aparecer na tela */
+.aparecer {
+    animation: fadeIn 0.8s ease-out forwards;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* Customização da Tabela para deixá-la mais "limpa" */
+.tabela-personalizada {
+    border-collapse: separate;
+    border-spacing: 0 8px; /* Espaço entre as linhas */
+}
+
+.tabela-personalizada th {
+    border-bottom: none;
+    color: #6b7280;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 0.85rem;
+}
+
+.tabela-personalizada td {
+    background-color: #ffffff;
+    border-top: 1px solid #f3f4f6;
+    border-bottom: 1px solid #f3f4f6;
+    padding: 16px;
+}
+
+/* Arredondamento do primeiro e último item das linhas para fazer o efeito de "cartão" na linha */
+.tabela-personalizada td:first-child {
+    border-left: 1px solid #f3f4f6;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    font-weight: 500;
+}
+
+.tabela-personalizada td:last-child {
+    border-right: 1px solid #f3f4f6;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+/* Pequena bolinha colorida para indicar a cor da classificação ao lado do nome na tabela */
+.ponto-cor {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    margin-right: 8px;
+    vertical-align: middle;
+}

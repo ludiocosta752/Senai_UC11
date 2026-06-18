@@ -1,0 +1,185 @@
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\appsettings.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.runtime.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.endpoints.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.exe
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.deps.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.runtimeconfig.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.AssemblyReference.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfoInputs.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfo.cs
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.CoreCompileInputs.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\scopedcss\bundle\Calculadora_IMC_WEB.styles.css
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\compressed\nm9yiazk51-{0}-otmz80e6ui-otmz80e6ui.gz
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculad.8F0CC73F.Up2Date
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\refint\Calculadora_IMC_WEB.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\Calculadora_IMC_WEB.genruntimeconfig.cache
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\ref\Calculadora_IMC_WEB.dll
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\compressed\42qom31in3-{0}-m1a1xedmrk-m1a1xedmrk.gz
+C:\Users\pg-co\.gemini\antigravity-ide\scratch\ImcCalculator\obj\Debug\net9.0\compressed\2joonbq6fb-{0}-kgu12ku95f-kgu12ku95f.gz
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.runtime.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.endpoints.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.exe
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.deps.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.runtimeconfig.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.AssemblyReference.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfoInputs.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfo.cs
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\scopedcss\bundle\Calculadora_IMC_WEB.styles.css
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\nm9yiazk51-{0}-otmz80e6ui-otmz80e6ui.gz
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\42qom31in3-{0}-m1a1xedmrk-m1a1xedmrk.gz
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\2joonbq6fb-{0}-kgu12ku95f-kgu12ku95f.gz
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculad.8F0CC73F.Up2Date
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\refint\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.genruntimeconfig.cache
+C:\Users\Suporte\Downloads\Calculadora_IMC_WEB\obj\Debug\net9.0\ref\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.endpoints.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.runtime.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.exe
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.deps.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.runtimeconfig.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfo.cs
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\scopedcss\bundle\Calculadora_IMC_WEB.styles.css
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\nm9yiazk51-{0}-otmz80e6ui-otmz80e6ui.gz
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\42qom31in3-{0}-m1a1xedmrk-m1a1xedmrk.gz
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\2joonbq6fb-{0}-kgu12ku95f-kgu12ku95f.gz
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculad.8F0CC73F.Up2Date
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\refint\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.genruntimeconfig.cache
+C:\Users\Suporte\Documents\philippe\Teste_IMC_xUnit\Calculadora_IMC_WEB\obj\Debug\net9.0\ref\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.endpoints.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.runtime.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.exe
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.deps.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.runtimeconfig.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.AssemblyReference.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfoInputs.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfo.cs
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\scopedcss\bundle\Calculadora_IMC_WEB.styles.css
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\nm9yiazk51-{0}-otmz80e6ui-otmz80e6ui.gz
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\42qom31in3-{0}-m1a1xedmrk-m1a1xedmrk.gz
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\2joonbq6fb-{0}-kgu12ku95f-kgu12ku95f.gz
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculad.8F0CC73F.Up2Date
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\refint\Calculadora_IMC_WEB.dll
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.genruntimeconfig.cache
+C:\Users\Suporte\Documents\philippe\Calculadora_IMC_WEB\obj\Debug\net9.0\ref\Calculadora_IMC_WEB.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\appsettings.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.endpoints.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.staticwebassets.runtime.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.exe
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.deps.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.runtimeconfig.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.AssemblyReference.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfoInputs.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.AssemblyInfo.cs
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.csproj.CoreCompileInputs.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\scopedcss\bundle\Calculadora_IMC_WEB.styles.css
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\nm9yiazk51-{0}-otmz80e6ui-otmz80e6ui.gz
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\42qom31in3-{0}-m1a1xedmrk-m1a1xedmrk.gz
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\compressed\2joonbq6fb-{0}-kgu12ku95f-kgu12ku95f.gz
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculad.8F0CC73F.Up2Date
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\refint\Calculadora_IMC_WEB.dll
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.pdb
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\Calculadora_IMC_WEB.genruntimeconfig.cache
+C:\Users\Victor Souza\OneDrive\Área de Trabalho\Calculadora_IMC_WEB\obj\Debug\net9.0\ref\Calculadora_IMC_WEB.dll
